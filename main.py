@@ -844,4 +844,4 @@ async def support_any(update, context):
         store.log_support(
             user.id,
             message.message_id,
-            "user
+            "user",
